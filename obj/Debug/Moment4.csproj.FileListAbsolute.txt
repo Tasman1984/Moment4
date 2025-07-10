@@ -1,0 +1,8 @@
+C:\Users\Ozgur\source\repos\Moment4\Moment4\bin\Debug\Moment4.exe.config
+C:\Users\Ozgur\source\repos\Moment4\Moment4\bin\Debug\Moment4.exe
+C:\Users\Ozgur\source\repos\Moment4\Moment4\bin\Debug\Moment4.pdb
+C:\Users\Ozgur\source\repos\Moment4\Moment4\obj\Debug\Moment4.csproj.AssemblyReference.cache
+C:\Users\Ozgur\source\repos\Moment4\Moment4\obj\Debug\Moment4.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\source\repos\Moment4\Moment4\obj\Debug\Moment4.exe
+C:\Users\Ozgur\source\repos\Moment4\Moment4\obj\Debug\Moment4.pdb
+C:\Users\Ozgur\source\repos\Moment4\Moment4\obj\Debug\Moment4.exe.config

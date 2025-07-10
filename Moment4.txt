@@ -1,0 +1,5 @@
+I detta moment har jag lärt mig att skapa generiska klasser i C#. Jag förstår hur <T> fungerar och hur man kan använda det för att skapa återanvändbar kod.
+
+Jag övade också på att hantera fel när användaren skriver in felaktig data. Try / Catch / Finally gör att programmet inte kraschar.
+
+Jag är nöjd med att jag kunde kombinera generiska klasser och felhantering i ett och samma program.
