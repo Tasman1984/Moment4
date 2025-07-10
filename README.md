@@ -13,3 +13,8 @@
 
 ## Exempel
 
+```csharp
+Storage<string> texter = new Storage<string>();
+texter.AddItem("Hej");
+texter.AddItem("Programmering");
+texter.PrintAll();
